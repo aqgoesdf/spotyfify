@@ -82,7 +82,15 @@ nav.navbar-transparente{
     background-color: white;
     color: black;
 }
-
+ /*Serviços*/
+ #servicos{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+ .album{
+    padding: 10px 0px 10px 0px;
+ }
 /*Tipografia*/
 
 h1{
